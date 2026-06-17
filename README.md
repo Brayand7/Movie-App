@@ -96,7 +96,3 @@ La organización principal del código fuente se detalla a continuación:
 *   `npm run preview`: Sirve localmente los archivos compilados en la carpeta `dist` para pruebas de producción.
 *   `npm run lint`: Ejecuta el analizador de código estático ESLint para detectar posibles errores.
 
----
-
-##  Licencia
-Este proyecto es de código abierto y está disponible bajo la licencia MIT.
